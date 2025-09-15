@@ -1,11 +1,12 @@
-# 🪙 Points Transfer System
+[API Documentation](https://documenter.getpostman.com/view/26246009/2s9YeK2peE).
+
+
+# 🪙 Almatar Loyalty
 
 A simple Node.js backend application that allows users to transfer points between each other securely.  
 Includes features like pending transfers, expiration after 10 minutes, and atomic confirmation using MongoDB transactions.
 
 ---
-
-[API Documentation](https://documenter.getpostman.com/view/26246009/2s9YeK2peE).
 
 ## ⚙️ Features
 

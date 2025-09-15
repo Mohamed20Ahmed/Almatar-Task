@@ -1,6 +1,3 @@
-[API Documentation](https://documenter.getpostman.com/view/26246009/2s9YeK2peE).
-
-
 # 🪙 Almatar Loyalty
 
 A simple Node.js backend application that allows users to transfer points between each other securely.  
@@ -58,3 +55,7 @@ PORT=5000
 # 4. Run the development server
 npm run dev
 ```
+
+## 📌 API Documentation
+
+(https://documenter.getpostman.com/view/26246009/2s9YeK2peE).

@@ -1,0 +1,25 @@
+{
+  "name": "almatar-loyalty",
+  "version": "1.0.0",
+  "description": "[API Documentation](https://documenter.getpostman.com/view/26246009/2sA2xh3YNi).",
+  "main": "app.js",
+  "scripts": {
+    "prod": "set NODE_ENV=production && node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "express-rate-limit": "^8.1.0",
+    "express-validator": "^7.2.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.1",
+    "morgan": "^1.10.1"
+  }
+}

@@ -56,6 +56,8 @@ PORT=5000
 npm run dev
 ```
 
+---
+
 ## 📌 API Documentation
 
 (https://documenter.getpostman.com/view/26246009/2s9YeK2peE).
